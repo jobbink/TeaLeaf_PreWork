@@ -10,3 +10,5 @@ puts movies[:'Star Wars']
 puts movies[:'Vampire Diaries']
 
 puts movies[:'My favorite movie ever']
+
+#added a comment
