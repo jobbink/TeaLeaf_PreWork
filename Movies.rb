@@ -11,4 +11,16 @@ puts movies[:'Vampire Diaries']
 
 puts movies[:'My favorite movie ever']
 
-#added a comment
+
+
+#This program will output the same data as the last, but using arrays.
+
+movies = [1976, 1968, 2010, 2012]
+
+puts movies[0]
+
+puts movies [1]
+
+puts movies [2]
+
+puts movies [3]
